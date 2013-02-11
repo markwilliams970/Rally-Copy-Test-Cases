@@ -41,4 +41,6 @@ C:\> ruby copy_test_cases.rb
 	Test Case: TC329 successfully copied to TC472
 </pre>
 
+The script will copy Test Cases, including Steps, Attachments, and Tags. The script does _not_ associate the Test Cases to a Work Product (i.e. Story or Defect, and also does not copy any Test Case Results).
+
 Please Note: This will make copies of ALL Test Cases listed in the copy_test_cases.csv file. Please be CAUTIOUS WHEN USING THIS SCRIPT.
